@@ -16,37 +16,34 @@ Built with scalability and simplicity in mind, it's perfect for use in personal 
 ---
 
 ## 🚀 Getting Started
-2. Create and Activate a Virtual Environment
-python -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
+2. Create and Activate a Virtual Environment <br>
+python -m venv venv<br>
+source venv/bin/activate  # For Windows: venv\Scripts\activate<br><br>
 
-4. Install Dependencies
-pip install -r requirements.txt
-If requirements.txt is not available, you can manually install Django:
+4. Install Dependencies<br>
+pip install -r requirements.txt<br>
+If requirements.txt is not available, you can manually install Django:<br><br>
 
 
-pip install django
-4. Apply Database Migrations
-python manage.py migrate
+pip install django<br>
+4. Apply Database Migrations<br>
+python manage.py migrate<br><br>
 
-5. Create a Superuser
-python manage.py createsuperuser
+
 Follow the prompts to set a username and password.
 
-6. Start the Development Server
-python manage.py runserver
-Visit: http://127.0.0.1:8000
+6. Start the Development Server<br>
+python manage.py runserver<br>
+Visit: http://127.0.0.1:8000<br><br>
 
 
 
-🔐 Admin Login Credentials
-Use the following credentials to log in to the admin panel:
-
+🔐 Admin Login Credentials<br>
+Use the following credentials to log in to the admin panel:<br>
 Username: admin
-
 Password: admin1234
 
-Access the admin panel at: http://127.0.0.1:8000/admin/
+Access the admin panel at: http://127.0.0.1:8000/admin/<br><br>
 
 
 ### 1. To Clone the Repository
